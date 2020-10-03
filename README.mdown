@@ -1,4 +1,4 @@
-About
+Concerning
 ===========
 This game is ported from Ray Wenderlich's Cocos2dSimpleGame http://www.raywenderlich.com/352/how-to-make-a-simple-iphone-game-with-cocos2d-tutorial, which is a worldwide famous guideline for cocos2d beginners. So, special thanks to Ray Wenderlich at the start.
 
